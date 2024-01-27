@@ -1,0 +1,11 @@
+In this comprehensive tutorial series, we will walk you through the construction of a Retail Billing System using Python Tkinter GUI.
+In this specific segment, our focus will be on the development of the graphical user interface (GUI) for the application.
+
+Leveraging the capabilities of Python and Tkinter GUI, we aim to craft a Retail Billing System capable of calculating the total cost of purchased products,
+generating detailed bills, saving them, enabling bill searches within the application, facilitating bill email delivery, and supporting bill printing.
+
+Our tutorial will meticulously guide you through each stage of the process, starting from the design of the user interface to the implementation of essential functions.
+Our step-by-step methodology ensures accessibility for learners of all levels, whether you're a newcomer to Python or GUI programming.
+
+Whether you're a novice or a seasoned programmer, this tutorial is designed to equip you with the skills to construct a comprehensive Retail Billing System using Python Tkinter GUI. 
+Stay tuned for upcoming segments where we'll delve deeper into the various functionalities of the application.
